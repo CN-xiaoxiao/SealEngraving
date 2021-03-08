@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1614776891 source:d:\编程练习\c语言\课程设计\我的印章制作程序\main.c
+	<CONIO.H>
+	<STDLIB.H>
+	<STDIO.H>
+	<MATH.H>
+	<MALLOC.H>
+	<string.h>
+	<pshpack2.h>
+	<poppack.h>
+
